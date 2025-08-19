@@ -1,14 +1,14 @@
-# Tipos primitivos em Python
+# Primitive Types in Python
 
-# int   -> números inteiros
+# int -> integer numbers
 x = 7
 
-# float -> números decimais (ponto flutuante)
+# float -> decimal numbers (floating point)
 y = 7.3
 
-# bool  -> valores lógicos (booleanos) - sempre com inicial maiúscula
-verdadeiro = True
-falso = False
+# bool -> logical values (boolean) - always with initial value stored
+true = True
+false = False
 
-# str   -> cadeias de caracteres (strings)
-mensagem = "olá, mundo!"
+# str -> strings
+message = "hello, world!"

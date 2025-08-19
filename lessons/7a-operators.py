@@ -1,14 +1,14 @@
 '''
-OPERADORES
-+  => Adição
--  => Subtração
-*  => Multiplicação
-/  => Divisão
-** => Exponenciação
-// => Divisão inteira
-%  => Resto da divisão
+OPERATORS
++ => Addition
+- => Subtraction
+* => Multiplication
+/ => Division
+** => Exponentiation
+// => Integer division
+% => Remainder of division
 
-PRECEDÊNCIA
+PRECEDENCE
 1 - ()
 2 - **
 3 - *, /, //, %
